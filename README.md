@@ -8,17 +8,17 @@ inventory. It would also be helpful if this could be updated easily as the game 
 
 ## Features
 There may be several characters. Each character has the following statistics:
- Health
- Strength
- Agility
- Intelligence
- Up to three special abilities
- Up to five items in inventory
- One item in hand
- Gold
+* Health
+* Strength
+* Agility
+* Intelligence
+* Up to three special abilities
+* Up to five items in inventory
+* One item in hand
+* Gold
 
 You can:
- Set each character a class and a name
- Set statistics and items
- Update statistics and items
- Show all details, statistics and items for the characters
+* Set each character a class and a name
+* Set statistics and items
+* Update statistics and items
+* Show all details, statistics and items for the characters
